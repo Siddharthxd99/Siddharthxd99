@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://github.com/Siddharthxd99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://avyra-ai.onrender.com/"><img src="https://img.shields.io/badge/AvyraAI-ff4088?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/897798897030795294/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
