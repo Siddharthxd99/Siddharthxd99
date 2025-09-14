@@ -38,22 +38,6 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthxd99&theme=radical" alt="streak" />
 </p>
 
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthxd99&theme=tokyo-night" alt="activity graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthxd99&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Siddharthxd99"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
