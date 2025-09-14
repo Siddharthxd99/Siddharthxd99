@@ -22,7 +22,7 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,nodejs,express,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,github,git,vscode" />
 </p>
 
 ---
@@ -44,15 +44,6 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthxd99&theme=tokyo-night" alt="activity graph"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthxd99&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
