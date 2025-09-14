@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=⚡+Web+Developer;👨‍🎓+Class+12+CS+Student;🤖+Exploring+AI+%26+Backend;🚀+Future+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=ff0004&center=true&vCenter=true&width=700&lines=⚡+Web+Developer;👨‍🎓+Class+12+CS+Student;🤖+Exploring+AI+%26+Backend;" alt="Typing SVG" />
 </p>
 
 <h1 align="center" style="color:#00FFF7;">👾 Hey, I'm Siddharth</h1>
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF7&height=120&section=footer&text=✨+Code.+Learn.+Build.+Repeat.+✨&fontColor=0D1117&fontSize=24&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0004&height=120&section=footer&text=✨+Code.+Learn.+Build.+Repeat.+✨&fontColor=0D1117&fontSize=24&animation=twinkling" />
 </p>
