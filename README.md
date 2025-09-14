@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Web+Developer+🤖;Class+12+CS+Student+🎓;Learning+Python+%26+MySQL+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Web+Developer+🤖;Class+12+CS+Student+🎓;Learning+Python+%26+MySQL+Html+Css+JavaScript+Git🚀" alt="Typing SVG" />
 </p>
 
 # 👋 Hey, I'm Siddharth </>
@@ -22,7 +22,7 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,vscode,github,git,perplexity" />
 </p>
 
 ---
@@ -44,6 +44,15 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthxd99&theme=tokyo-night" alt="activity graph"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthxd99&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+
+---
 
 ## 🌐 Connect with Me
 <p align="center">
