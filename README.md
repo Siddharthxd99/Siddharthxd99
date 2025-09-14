@@ -44,7 +44,7 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://github.com/Siddharthxd99"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/></a>
-  <a href="https://avyra-ai.onrender.com/"><img src="https://img.shields.io/badge/AvyraAI-0D1117?style=for-the-badge&logo=vercel&logoColor=FF00FF"/></a>
+  <a href="https://avyra-ai.onrender.com/"><img src="https://img.shields.io/badge/AvyraAI-0D1117?style=for-the-badge&logo=avyra&logoColor=FF00FF"/></a>
   <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 </p>
 
