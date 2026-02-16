@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/Python-00FFF7?style=for-the-badge&logo=python&logoColor=black) 
   ![MySQL](https://img.shields.io/badge/MySQL-FF00FF?style=for-the-badge&logo=mysql&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![HTML](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS-006EFF?style=for-the-badge&logo=css3&logoColor=white)  
 - 🔥 Exploring **Backend Systems + AI Integrations**  
 
