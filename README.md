@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0004&height=120&section=footer&text=✨+Code.+Learn.+Build.+Repeat.+✨&fontColor=0D1117&fontSize=24&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=01b3ff&height=120&section=footer&text=✨+Code.+Learn.+Build.+Repeat.+✨&fontColor=0D1117&fontSize=24&animation=twinkling" />
 </p>
